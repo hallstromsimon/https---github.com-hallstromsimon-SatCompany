@@ -9,5 +9,7 @@ after you put the files on a server like a http:localhost:8080
 
 you can naviagte and se dummy data from a CZML file displaying satelites and the ISS and a Car.
 
+Live at: http://satsweden.esy.es/
+
 To do
 1.insert realtime data
