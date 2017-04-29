@@ -1,7 +1,7 @@
 SatSweden
 By Simon. Hällström
 
-This is a Satcome system for NASA Space Apps 2017 Sweden on the challenge 1D 2D 3D Go!
+This is a Satcom system for NASA Space Apps 2017 Sweden on the challenge 1D 2D 3D Go!
 
 To Run you need to put the files on a server to work.
 
